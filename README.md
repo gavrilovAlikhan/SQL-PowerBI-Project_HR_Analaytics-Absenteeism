@@ -8,7 +8,7 @@ The source data contained Human Resource 741 records. This is included in the re
 This project was done on Microsoft SQL Server Management Studio
 
 # Data Visualisation
-Data visualisation was done in Microsoft Power BI. [View Dashboard](https://www.novypro.com/project/hr-analytics-absenteeism) 
+Data visualisation was done in Microsoft Power BI. [View Dashboard](https://www.novypro.com/project/hr-analytics-absenteeism-power-bi-1) 
 
 ![HR_Absenteeism_Dashboard](https://github.com/gavrilovAlikhan/SQL-PowerBI-Project_HR_Analaytics-Absenteeism/assets/123990359/185bf6f3-ebd8-4831-908f-83bf00fb1d02)
 
