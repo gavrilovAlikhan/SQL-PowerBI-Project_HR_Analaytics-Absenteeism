@@ -138,3 +138,5 @@ ON a.Reason_for_absence = r.Number;
 
 ### 5) Build a Dashboard
 Interactive dashboard visuals are designed based on an HR approved wireframe showing KPIs, breakdowns, trends and insights.
+
+![wireframe](https://github.com/gavrilovAlikhan/SQL-PowerBI-Project_HR_Analaytics-Absenteeism/assets/123990359/7dbd6371-b3e2-4dc4-a01f-18cd39902167)
