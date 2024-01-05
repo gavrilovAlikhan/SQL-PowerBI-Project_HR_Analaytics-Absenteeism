@@ -117,4 +117,19 @@ ON a.Reason_for_absence = r.Number;
 ```
 ### 4) Connect Database to PowerBI
 1. Navigate to the "Get Data" tab in Power BI > Click on "More" in the "Get Data" tab
-2. Type "SQL" and select "SQL Server Databases" > Identify the server name and database name > Utilize the advanced settings option to enter an SQL query > OK
+
+![get_data_powerBI](https://github.com/gavrilovAlikhan/SQL-PowerBI-Project_HR_Analaytics-Absenteeism/assets/123990359/19e58f1f-611b-455f-bfe5-8b091c04f3cc)
+
+2. Type "SQL" and select "SQL Server Databases"
+
+![get_data_powerBI_2](https://github.com/gavrilovAlikhan/SQL-PowerBI-Project_HR_Analaytics-Absenteeism/assets/123990359/ef1fd052-7b0a-4a33-a97d-65de4d8bdf98)
+
+3. Identify the server name and database name > Utilise the advanced settings option to enter an SQL query > OK
+
+![connect_database_powerBI](https://github.com/gavrilovAlikhan/SQL-PowerBI-Project_HR_Analaytics-Absenteeism/assets/123990359/a7d1764e-1a6c-4c65-9a79-c1a8cc3eb358)
+
+4. Confirm that the desired columns have been brought in > Load
+
+
+
+5. Check that the imported table includes all necessary information
