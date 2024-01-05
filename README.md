@@ -1,1 +1,1 @@
-# SQL-PowerBI-Project_HR_Analaytics-Absenteeism
+# HR Analytics Absenteeism Project - SQL & Power BI
