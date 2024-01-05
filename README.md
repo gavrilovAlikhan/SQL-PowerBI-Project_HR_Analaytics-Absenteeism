@@ -130,6 +130,11 @@ ON a.Reason_for_absence = r.Number;
 
 4. Confirm that the desired columns have been brought in > Load
 
-
+![load_database_powerBI](https://github.com/gavrilovAlikhan/SQL-PowerBI-Project_HR_Analaytics-Absenteeism/assets/123990359/f1afc234-18f1-445b-be0f-c19230f6cae2)
 
 5. Check that the imported table includes all necessary information
+
+![loaded_data_powerBI](https://github.com/gavrilovAlikhan/SQL-PowerBI-Project_HR_Analaytics-Absenteeism/assets/123990359/73c6b0bb-238d-4eda-b027-91a9ad8e11e9)
+
+### 5) Build a Dashboard
+Interactive dashboard visuals are designed based on an HR approved wireframe showing KPIs, breakdowns, trends and insights.
